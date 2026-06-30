@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0214/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0214/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 長生胎元神用經
+  date: '2015-08-29 03:00:13.971717'
+  source:
+    repository: kanripo
+    path: KR5g0214
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0214_000-HFL.yaml, hash: 'sha256:f4127969a520ce2e172e42f4c0290e31183f7aa95f195a1add61732bd27b2cca'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0214_000-HFL.markers.yaml, hash: 'sha256:ae7bd81cab9b5ed404655253f1ffbcbc21adeaeca665002faf39faa66d8fd2c9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0214_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 5943
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:20c5bf2288c76f03c77e0d67149a051a12b203301f59023a6b28b65d81883f9b

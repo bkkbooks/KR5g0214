@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR5g0214/v1
+canonical_location: https://kanripo.org/bkk/KR5g0214/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 長生胎元神用經
+  identifiers:
+    alt_id:
+    - DZ1405
+    - JY124
+  date: '2015-08-29 03:00:13.971717'
+  source:
+    repository: kanripo
+    path: KR5g0214
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  base_edition: HFL
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: CK-KZ
+  label: 【重刊道藏輯要】
+- short: CK-KZ-jye
+- short: HFL
+  label: 【正統道藏・涵芬樓版】
+- short: YP-C
+  label: 【原版道藏輯要】
+- short: ZTDZ
+  label: 【正統道藏・三家本】
+- short: SJB
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0214_000.yaml, hash: 'sha256:187e6bb6a0d2c775069d7fb37d7faf49359037e7b1ff6844db691818043b4e96'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0214_000.markers.yaml, hash: 'sha256:6fba9fdf963238c6b2f172862be414fa2bea0bc531b2057fa1bf0c8d3c3d9d34'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0214_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 5943
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:a0f8a15bebcbc68a4d2013e3c4d225d709710891c95c7a36fbd3afab9d1609b3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
