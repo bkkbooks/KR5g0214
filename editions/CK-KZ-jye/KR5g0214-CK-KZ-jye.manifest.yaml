@@ -24,7 +24,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5g0214_000-CK-KZ-jye.yaml, hash: 'sha256:978989119510ac79638537a04c33b8c0e2d6796faa60d4c0605811a9feddd0fb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5g0214_000-CK-KZ-jye.markers.yaml, hash: 'sha256:6008e8c61cbf3485962d40fa96022afb149c54b061dff13c3160150220d0bf14'}
+  - {seq: 0, role: markers, filename: assets/KR5g0214_000-CK-KZ-jye.markers.yaml, hash: 'sha256:c6e239a2e452cbb8de22cac04e1ae44685d09409226f722801849b54d8182300'}
 table_of_contents:
 - ref:
     seq: 0
@@ -36,4 +36,4 @@ table_of_contents:
   label: 長生胎元神用經
   type: section
   level: 1
-hash: sha256:e774ddda4b932c934c05f69940e26597529a9551ec63ec6e64c6b89329bf678f
+hash: sha256:a1c59cac41faf0f453407c28d5f4c49ef4d1f4c08fce90975a840376bdf64847

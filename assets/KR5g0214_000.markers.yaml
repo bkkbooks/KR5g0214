@@ -2730,6 +2730,7 @@ markers:
   - {type: page-break, offset: 5839, content: '', id: KR5g0214_YP-C_08douji-11-0021b, image: JY124/08douji-11-0021b.png}
   - {type: page-break, offset: 5839, content: '', id: KR5g0214_SJB_000-340315c, image: sjb/34/340315c.png}
   - {type: punctuation, offset: 5842, content: (, id: KR5g0214_krp_000-bkkpn1}
+  - {type: voice, offset: 5842, length: 20, name: note, id: n1}
   - {type: variant, offset: 5849, length: 1, content: 鴉, CK-KZ: 鶻}
   - {type: variant, offset: 5849, length: 1, content: 鴉, CK-KZ-jye: 鶻}
   - {type: variant, offset: 5849, length: 1, content: 鴉, YP-C: 鶻}
@@ -2837,4 +2838,4 @@ markers:
 
       ', id: KR5g0214_krp_000-bkkkrnewl417}
   back: []
-hash: sha256:57f85cdc01a6abffffdfec886c394da17db62606739bdf6cf39445749defe81c
+hash: sha256:8d7f1613c4ea14e58a507a7a9863036ab2bbf81365497151e4e73a885d9f9aaa
